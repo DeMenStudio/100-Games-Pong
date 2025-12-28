@@ -43,3 +43,5 @@ godot4 --path .
 - Ghi best score, thêm 2 người chơi local.
 
 Chúc bạn học vui — game #1 đã sẵn sàng để chơi và làm nền cho các bài tiếp theo!
+
+.
