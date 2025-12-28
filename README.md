@@ -1,4 +1,4 @@
-# 100 Games with Godot — 01: Pong
+# 100 Games with Godot — 01 Pong
 
 Dự án này là game đầu tiên trong series “100 game từ dễ đến khó” để học Godot Engine và làm game. Mục tiêu: nhanh, gọn, hoàn chỉnh tối thiểu (MVP), dễ mở rộng ở các phiên bản sau.
 
@@ -43,5 +43,3 @@ godot4 --path .
 - Ghi best score, thêm 2 người chơi local.
 
 Chúc bạn học vui — game #1 đã sẵn sàng để chơi và làm nền cho các bài tiếp theo!
-
-.
